@@ -1,0 +1,4 @@
+#define SECRET_CH_ID  1924399
+#define SECRET_WRITE_APIKEY  "T992K9QSV51JRSR5"
+#define SECRET_SSID "Mohawk-IoT"
+#define SECRET_PASS "IoT@MohawK1"
